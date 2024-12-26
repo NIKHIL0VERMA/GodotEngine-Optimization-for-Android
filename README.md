@@ -1,12 +1,13 @@
 # Godot Engine Optimization for 2D Android Games
 
 ## Overview
-Welcome to the Godot Engine Optimization repository. This repository includes all the necessary files and resources to help you optimize your Godot 2D games for Android, reducing the APK size significantly. Follow along with the provided files and abstract steps to achieve a more efficient build for your games.
-Soon publishing Medium post with complete steps.
+Welcome to the Godot Engine Optimization repository. This repository includes all the necessary files and resources to help you optimize your Godot 2D games for Android, reducing the APK size significantly. Please follow along with the provided files and abstract steps to make it more efficient for your games.
+
+Complete detailed steps on [Medium](https://medium.com/@nikhil2003verma/how-i-reduced-godot-game-size-from-250mb-to-23mb-for-android-8858e7287d8e)
 
 ## Contents
 - **custom.py**: Custom build script for optimizing the Godot engine.
-- **forced_classes.txt**: List of forced classes to include in the build.
+- **forced classes.txt**: List of forced classes to include in the build.
 - **APKs & AARs**: Pre-built Android debug and release APKs and AARs.
 - **Source Template**: Optimized Godot engine source template.
 
